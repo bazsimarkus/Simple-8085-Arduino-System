@@ -1,7 +1,6 @@
-﻿# Simple 8085 Arduino System v1.0 ![enter image description here](https://github.com/bazsimarkus/Simple-8085-Arduino-System/raw/master/Docs/8085-icon.png)
-**This is the most simple version of a fully working Intel 8085-based microprocessor system. With only 3 chips, and an Arduino, the circuit can be built on a breadboard. Due to the limited number of Arduino pins, only 64 bytes of memory can be addressed, but it's enough for simple Assembly programs like adding numbers, and so on.**
+﻿# Simple Intel 8085 Microprocessor System with Arduino ![enter image description here](https://github.com/bazsimarkus/Simple-8085-Arduino-System/raw/master/Docs/8085-icon.png)
 
-Created by Balázs Márkus in 2018
+**This is the simplest version of a fully working Intel 8085-based microprocessor system. With only 3 chips, and an Arduino, the circuit can be built on a breadboard, and you can easily run your Assembly program on a real microprocessor. Due to the limited number of Arduino pins, only 64 bytes of memory can be addressed, but it's enough for simple Assembly programs like adding numbers, and so on.**
 
 *During the creation of this project, the main purpose was to keep the number of components and the amount of programming as low as possible, so even a beginner can wire up the circuit on a solderless breadboard and understand how a microprocessor system works. The following versions will contain more complex elements but this version (1.0) is directly a bare minimum, fully working system with only 4 chips.*
 
